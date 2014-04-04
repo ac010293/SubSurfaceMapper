@@ -3,9 +3,9 @@ SubSurfaceMapper
 
 Autonomous Mobile Robot for Subsurface Mapping
 
-<h2>Description</h2>
+<h3>Description</h3>
 
 
-<h2>Wiki</h2>
+<h3>Wiki</h3>
 http://robotics.bstu.by/mwiki/index.php?title=SubsurfaceMapper
 
